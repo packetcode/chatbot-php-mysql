@@ -1,3 +1,3 @@
-# ChatBot using PHP MySQL
+# ChatBot using PHP & MySQL
 
 Youtube Video: 
